@@ -63,6 +63,6 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 accelerate launch train/train_diffusion_vas
     --output_dir /path/to/train_diffusion_vas_content_comp_outputs
 ```
 
-![Result](assets/zzero-shotresults.jpeg)
+![Result](assets/zero-shotresults.jpeg)
 
 ![Result](assets/pred_amodal_rgb.gif)
